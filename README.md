@@ -1,3 +1,3 @@
 # Xynapse Terminal
 
-## Download and Use XynapseTerminal.exe
+#### Download and Use XynapseTerminal.exe
